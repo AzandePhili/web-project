@@ -1,0 +1,55 @@
+
+  body {
+   background-color: pink;
+ }
+ h1 {
+   color: black;
+   font-size: 50px;
+   margin: 0px;
+   background: pink;
+   text-align: center;
+   font-family: cursive;
+ }
+
+  ul {
+    color: black;
+    font-size: 20px;
+    margin: 0px;
+    background: pink;
+    text-align: center;
+  }
+
+  p  {
+    color: black;
+    font-size: 40px;
+    margin: 0px;
+    background: pink;
+    text-align: center;
+  }
+
+
+
+.nav div{
+  height: 4px;
+  background-color: white;
+  margin: 5px 0;
+  border-radius: 25px;
+}
+
+.nav{
+  width: 30px
+  display:block;
+  margin: 1em 0 0 1em;
+}
+.one {
+  width: 30px
+}
+.two {
+  width: 30px
+}
+.three {
+  width: 30px
+}
+.nav:hover div{
+width: 30px
+}
